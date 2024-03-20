@@ -1,7 +1,8 @@
 # Data Science Chatbot
-![image](https://github.com/ilirjanahyseni/data-science-chatbot/assets/92699878/da793497-c3e2-495f-a32f-e70f81c2db10)
+<a href="https://colab.research.google.com/github/ilirjanahyseni/data-science-chatbot/blob/main/DataScience_Chatbot_with_Python.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-This repository contains a Python [script](DataScience_Chatbot_with_Python.ipynb) for a chatbot that leverages web scraping and machine learning to answer user questions about Data Science. The chatbot dynamically fetches content from the [Data Science Wikipedia](https://en.wikipedia.org/wiki/Data_science) page and utilizes a mix of traditional Natural Language Processing (NLP) techniques and a machine learning model from [Hugging Face](https://huggingface.co/distilbert/distilbert-base-cased-distilled-squad) for question answering.
+
+This repository contains a Python script for a chatbot that leverages web scraping and machine learning to answer user questions about Data Science. The chatbot dynamically fetches content from the [Data Science Wikipedia](https://en.wikipedia.org/wiki/Data_science) page and utilizes a mix of traditional Natural Language Processing (NLP) techniques and a machine learning model from [Hugging Face](https://huggingface.co/distilbert/distilbert-base-cased-distilled-squad) for question answering.
 
 # Features
 - **Web Scraping**: Automatically retrieves the latest content from the Data Science Wikipedia page to ensure up-to-date information.
