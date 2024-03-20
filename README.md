@@ -1,5 +1,5 @@
 # Data Science Chatbot
-This repository contains a Python script for a chatbot that leverages web scraping and machine learning to answer user questions about data science. The chatbot dynamically fetches content from the [Data Science Wikipedia](https://en.wikipedia.org/wiki/Data_science) page and utilizes a mix of traditional Natural Language Processing (NLP) techniques and a machine learning model from [Hugging Face](https://huggingface.co/distilbert/distilbert-base-cased-distilled-squad) for question answering.
+This repository contains a Python script for a chatbot that leverages web scraping and machine learning to answer user questions about Data Science. The chatbot dynamically fetches content from the [Data Science Wikipedia](https://en.wikipedia.org/wiki/Data_science) page and utilizes a mix of traditional Natural Language Processing (NLP) techniques and a machine learning model from [Hugging Face](https://huggingface.co/distilbert/distilbert-base-cased-distilled-squad) for question answering.
 
 # Features
 - **Web Scraping**: Automatically retrieves the latest content from the Data Science Wikipedia page to ensure up-to-date information.
@@ -9,4 +9,4 @@ This repository contains a Python script for a chatbot that leverages web scrapi
 - **Interactive Loop**: Maintains an interactive session with the user, providing informative responses until the session is terminated.
 
 # Usage
-To run the chatbot, execute the script in a Python environment. The chatbot will introduce itself and prompt the user to ask questions about data science, responding interactively based on the content fetched from Wikipedia and the inbuilt question-answering capabilities.
+To run the chatbot, execute the script in a Python environment. The chatbot will introduce itself and prompt the user to ask questions about Data Science, responding interactively based on the content fetched from Wikipedia and the inbuilt question-answering capabilities.
