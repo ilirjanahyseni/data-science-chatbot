@@ -14,3 +14,5 @@ This repository contains a Python script for a chatbot that leverages web scrapi
 # Usage
 To run the chatbot, execute the script in a Python environment. The chatbot will introduce itself and prompt the user to ask questions about Data Science, responding interactively based on the content fetched from Wikipedia and the inbuilt question-answering capabilities.
 
+## Disclaimer and Acknowledgment
+This project is created as an extension and adaptation of the knowledge acquired from the course "How to Build your own Chatbot using Python?" provided by [Great Learning](https://www.mygreatlearning.com/).
